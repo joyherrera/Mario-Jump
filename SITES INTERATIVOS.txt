@@ -1,0 +1,23 @@
+SITES INTERATIVOS
+
+https://findtheinvisiblecow.com/
+https://hackertyper.com/
+http://www.staggeringbeauty.com/
+http://weavesilk.com/
+https://jacksonpollock.org/
+https://www.koalastothemax.com/
+https://drawing.garden/
+https://cursoreffects.com/
+https://checkboxrace.com/
+https://longdogechallenge.com/
+https://binarypiano.com/
+
+
+MATERIAL DE AULA
+https://www.nike-react.com/
+
+https://drive.google.com/drive/folders/12m434Dgp1uvWIWZF-s-8no3o3c5ah8vW
+
+site interativo é um site com diferencial estetico, a ideia e interagir com o usuario.
+
+* no css pega todos os elementos em tela para estilizar
